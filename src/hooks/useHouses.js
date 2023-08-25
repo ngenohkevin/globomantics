@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 
+//show houses
 const useHouses = () => {
   const [allHouses, setAllHouses] = useState([]);
 
