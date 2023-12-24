@@ -14,5 +14,5 @@ root.render(
 
 // If you want to start measuring performance
 // to log results 
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
+// or send to an analytics endpoint. Learn more: 
 reportWebVitals();
