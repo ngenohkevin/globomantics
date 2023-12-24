@@ -12,7 +12,7 @@ root.render(
   </React.StrictMode>
 );
 
-// If you want to start measuring performance
+// If you want to start measuring 
 // to log results 
 // or send to an analytics endpoint. Learn more: 
 reportWebVitals();
